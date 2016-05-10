@@ -3,11 +3,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://example.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme: LITERÁRNÍ FONDUE
-  # Meta
+theme: 
+  
   title: LITERÁRNÍ FONDUE
-  avatar: http://rs664.pbsrc.com/albums/vv4/TSAnanth/Blank%20Page/B9EAE5A5.jpg~c200
-  gravatar: # Email MD5 hash
+  avatar: 
+  gravatar: 
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
