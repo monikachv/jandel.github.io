@@ -2,6 +2,7 @@
 layout: page
 title: O NÁS
 permalink: /o-nas/
+feature-img: "img/sample_feature_img_2.png"
 ---
 
 # Literární fondue
