@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KALENDÁŘ
-permalink: /calendar/
+permalink: /kalendar/
 type: info
 header_text: LITERÁRNÍ AKCE A UDÁLOSTI
 calendar: true
