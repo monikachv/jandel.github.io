@@ -7,7 +7,7 @@ header_text: LITERÁRNÍ AKCE A UDÁLOSTI
 calendar: true
 ---
 <div class="span3">
-	<h3></h3>
+	<h3>LITERÁRNÍ AKCE A UDÁLOSTI</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
