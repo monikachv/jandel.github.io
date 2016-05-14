@@ -5,6 +5,7 @@ permalink: /kalendar/
 type: info
 header_text: LITERÁRNÍ AKCE A UDÁLOSTI
 calendar: true
+feature-img: "img/sample_feature_img.png"
 ---
 <div class="span3">
 	<h3></h3>
